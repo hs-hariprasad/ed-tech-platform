@@ -1,0 +1,2 @@
+After navigating to the backend folder in the terminal type <node server.js>
+After that open a NEW Terminal and navigate to frontend folder & type <npm start>
